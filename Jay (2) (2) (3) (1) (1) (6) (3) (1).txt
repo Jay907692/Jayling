@@ -498,15 +498,15 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/gycgchgyfytdttr/shenq
 })
 
 local player = Window:MakeTab({
-	Name = "👊最强拳击模拟器👊",
+	Name = "👊河北唐县👊",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
 
 player:AddButton({ 
-	Name = "1",
+	Name = "外网最强刷钱脚本",
 	Callback = function()
-      	loadstring(game:HttpGet('https://raw.githubusercontent.com/Solx69/Shit-Boy-Hub-Main/main/Master.lua'))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Marco8642/science/ok/T%20ang%20County"))()
   	end
 })
 
